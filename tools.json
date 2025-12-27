@@ -77,7 +77,7 @@
       "headline": "inStop",
       "image": "",
       "text": "Factory Reset",
-      "action": "warning:When you enter the password＂0413＂, it will factory reset your TV."
+      "action": "warning:When you enter the password, it will factory reset your TV"
     }
   ]
 }
