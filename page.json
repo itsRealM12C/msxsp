@@ -4,7 +4,7 @@
   "template": {
     "type": "default",
     "layout": "0,0,2,2",
-    "color": "msx-glass",
+    "color": "msx-modern",
     "imageFiller": "cover"
   },
   "tabs": [
