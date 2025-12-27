@@ -1,0 +1,127 @@
+{
+  "type": "pages",
+  "headline": "LG Content Store Apps",
+  "template": {
+    "type": "default",
+    "layout": "0,0,2,2",
+    "color": "msx-glass",
+    "imageFiller": "cover"
+  },
+  "items": [
+    {
+      "titleFooter": "YouTube",
+      "image": "https://itsrealm12c.github.io/owalnew/youtube.leanback.png",
+      "action": "link:https://www.youtube.com/tv?env_forceFullAnimation=1&env_enableVoice=1&env_enableWebSpeech=0"
+    },
+    {
+      "titleFooter": "YouTube Kids",
+      "image": "https://itsrealm12c.github.io/owalnew/ytkids.png",
+      "action": "link:https://www.youtube.com/tv/kids"
+    },
+    {
+      "titleFooter": "Twitch",
+      "image": "https://itsrealm12c.github.io/owalnew/twitch.png",
+      "action": "link:https://webos.tv.twitch.tv/"
+    },
+    {
+      "titleFooter": "TikTok TV",
+      "image": "https://itsrealm12c.github.io/owalnew/tiktok.png",
+      "action": "link:https://tv.tiktok.com/webos"
+    },
+    {
+      "titleFooter": "Free Games by PlayWorks",
+      "image": "https://itsrealm12c.github.io/owalnew/playworks.gif",
+      "action": "link:https://service.play.works/service/apps/portal_vizio/index.html"
+    },
+    {
+      "titleFooter": "AccuWeather",
+      "image": "https://itsrealm12c.github.io/owalnew/accuweather.gif",
+      "action": "link:https://lgsmarttvapp.accuweather.com/widget/lgsmarttvapp/webcontent/webos/index.html"
+    },
+    {
+      "titleFooter": "myTuner Radio",
+      "image": "https://itsrealm12c.github.io/owalnew/radio.png",
+      "action": "link:https://devices.mytuner.mobi/"
+    },
+    {
+      "titleFooter": "TV Games",
+      "image": "https://itsrealm12c.github.io/owalnew/tvgames.png",
+      "action": "link:https://apps.tvgam.es/tv_games/vizio_portal/production/portal/index.html?env_forceFullAnimation=1"
+    },
+    {
+      "titleFooter": "Couchplay Games",
+      "image": "https://itsrealm12c.github.io/owalnew/spielecenter.tv.itsmy.png",
+      "action": "link:https://lgapp.itsmy.tv/spielecenter"
+    },
+    {
+      "titleFooter": "Spotify",
+      "image": "https://itsrealm12c.github.io/owalnew/spotify-beehive.png",
+      "action": "link:https://api-partner.spotify.com/tvapp?platform=webos"
+    },
+    {
+      "titleFooter": "Direct One",
+      "image": "https://itsrealm12c.github.io/owalnew/direct.png",
+      "action": "link:https://upchustatic.solocoo.tv/webos/12.4.0/main.html"
+    },
+    {
+      "titleFooter": "Megogo Games",
+      "image": "https://itsrealm12c.github.io/owalnew/mgames.png",
+      "action": "link:https://app.megogo.games"
+    },
+    {
+      "titleFooter": "SWEET.TV",
+      "image": "https://itsrealm12c.github.io/owalnew/sweet.png",
+      "action": "link:https://tv.sweet.tv"
+    },
+    {
+      "titleFooter": "MEGOGO",
+      "image": "https://itsrealm12c.github.io/owalnew/megogo.png",
+      "action": "link:https://lg-app.megogo.net/?lang=EN"
+    },
+    {
+      "titleFooter": "Awale",
+      "image": "https://itsrealm12c.github.io/owalnew/awale.png",
+      "action": "link:https://smartgames.tv/vprod/Awale/"
+    },
+    {
+      "titleFooter": "Stremio",
+      "image": "https://itsrealm12c.github.io/owalnew/stremio.gif",
+      "action": "link:https://tv.strem.io/"
+    },
+    {
+      "titleFooter": "Max",
+      "image": "https://itsrealm12c.github.io/owalnew/max.gif",
+      "action": "link:https://webos.play.max.com"
+    },
+    {
+      "titleFooter": "Web Video Caster",
+      "image": "https://itsrealm12c.github.io/owalnew/webvideocaster.gif",
+      "action": "link:http://vewd.webvideocaster.com/"
+    },
+    {
+      "titleFooter": "!Free! Games Hub",
+      "image": "https://itsrealm12c.github.io/owalnew/freegameshub.gif",
+      "action": "link:https://cdn.klebo.io/hub/webos/1.2.0"
+    },
+    {
+      "titleFooter": "SS-IPTV",
+      "image": "https://itsrealm12c.github.io/owalnew/ss.png",
+      "action": "link:https://app.ss-iptv.com/?group=LG&version=r_beta"
+    },
+    {
+      "titleFooter": "Media Station X",
+      "image": "https://itsrealm12c.github.io/owalnew/msx.png",
+      "action": "link:https://msx.benzac.de/lg.html?exit=1"
+    },
+    {
+      "titleFooter": "Plex",
+      "image": "https://itsrealm12c.github.io/owalnew/plex.png",
+      "action": "link:https://app.plex.tv/tv-v5-generic?platform=foxxum"
+    },
+    {
+      "titleFooter": "SmartOne IPTV",
+      "image": "https://itsrealm12c.github.io/owalnew/smartoneiptv.gif",
+      "action": "link:https://netcast.smartone-iptv.com/"
+    }
+  ]
+}
