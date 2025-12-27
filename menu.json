@@ -1,11 +1,15 @@
 {
-    "headline": "Test example",
-    "menu": [
-        {
-            "icon": "info",
-            "label": "Example",
-            "data": "https://itsrealm12c.github.io/msx/page.json"
-        }
-        
-    ]
+  "headline": "Online webOS App Launcher",
+  "menu": [
+    {
+      "icon": "store",
+      "label": "LG Content Store Apps",
+      "data": "https://itsrealm12c.github.io/msx/lg.json"
+    },
+    {
+      "icon": "controller",
+      "label": "Homebrew Channel Apps",
+      "data": "https://itsrealm12c.github.io/msx/hc.json"
+    }
+  ]
 }
