@@ -1,0 +1,22 @@
+{
+  "type": "pages",
+  "headline": "Main",
+  "template": {
+    "type": "separate",
+    "layout": "0,0,2,2",
+    "icon": "msx-white-soft:apps",
+    "color": "msx-glass"
+  },
+  "items": [
+    {
+      "title": "Placeholder Button 1",
+      "playerLabel": "Button 1",
+      "action": "message:Button 1 clicked"
+    },
+    {
+      "title": "Placeholder Button 2",
+      "playerLabel": "Button 2",
+      "action": "message:Button 2 clicked"
+    }
+  ]
+}
