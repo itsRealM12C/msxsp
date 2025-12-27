@@ -21,7 +21,7 @@
     {
       "titleFooter": "HDMI 3",
       "image": "https://itsrealm12c.github.io/owalnew/hdmi3.png",
-      "action": "link:https://itsrealm12c.github.io/lginput/hdmi3"
+      "action": "video:ext://hdmi:3"
     },
     {
       "titleFooter": "Live TV",
