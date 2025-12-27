@@ -11,8 +11,7 @@
     {
       "titleFooter": "Play Trailer",
       "image": "https://media.w3.org/2010/05/sintel/poster.png",
-      "action": "https://itsrealm12c.github.io/wal/test2.html",
-      
-            }
+      "action": "https://itsrealm12c.github.io/wal/test2"
+    }
   ]
-} 
+}
