@@ -7,7 +7,7 @@
       "data": "https://itsrealm12c.github.io/msx/lg.json"
     },
     {
-      "icon": "controller",
+      "icon": "gamepad",
       "label": "Homebrew Channel Apps",
       "data": "https://itsrealm12c.github.io/msx/hc.json"
     }
