@@ -1,0 +1,14 @@
+{
+  "type": "pages",
+  "headline": "Main Page",
+  "items": [
+    {
+      "title": "Placeholder 1",
+      "action": "message:Hello"
+    },
+    {
+      "title": "Placeholder 2",
+      "action": "message:World"
+    }
+  ]
+}
