@@ -1,0 +1,62 @@
+{
+  "type": "pages",
+  "headline": "Homebrew Channel Apps",
+  "template": {
+    "type": "default",
+    "layout": "0,0,2,2",
+    "color": "msx-glass",
+    "imageFiller": "cover"
+  },
+  "items": [
+    {
+      "titleFooter": "Wikipedia",
+      "image": "https://itsrealm12c.github.io/owalnew/wikipedia.png",
+      "action": "link:http://4181361297.am-live.fxmconnect.com/#app"
+    },
+    {
+      "titleFooter": "3D Pinball – Space Cadet",
+      "image": "https://repo.webosbrew.org/apps/icons/com.github.k4zmu2a.space-cadet-pinball.png",
+      "action": "link:https://emupedia.net/emupedia-game-space-cadet-pinball/"
+    },
+    {
+      "titleFooter": "Lampa",
+      "image": "https://itsrealm12c.github.io/owalnew/lampa.png",
+      "action": "link:http://lampa.mx/"
+    },
+    {
+      "titleFooter": "ForkNewBeta",
+      "image": "https://itsrealm12c.github.io/owalnew/forknewbeta.png",
+      "action": "link:http://browser.appinfo.su/"
+    },
+    {
+      "titleFooter": "Ott-play",
+      "image": "https://itsrealm12c.github.io/owalnew/Ottplay.png",
+      "action": "link:http://ott-play.com/f/"
+    },
+    {
+      "titleFooter": "Ott-play FOSS",
+      "image": "https://itsrealm12c.github.io/owalnew/ottplayfoss.png",
+      "action": "link:http://ottp.eu.org/f/"
+    },
+    {
+      "titleFooter": "DStore 1",
+      "image": "https://itsrealm12c.github.io/owalnew/dstore.png",
+      "action": "link:http://z91926l2.beget.tech/tv/index.php"
+    },
+    {
+      "titleFooter": "DStore 2",
+      "image": "https://itsrealm12c.github.io/owalnew/dstore.png",
+      "action": "link:http://x920083t.beget.tech/tv/indexv.php"
+    },
+    {
+      "titleFooter": "DStore VIP",
+      "image": "https://itsrealm12c.github.io/owalnew/dstore.png",
+      "action": "link:http://salita.pluton-host.ru/tv/vip.php"
+    },
+    {
+      "titleFooter": "LG Channels",
+      "image": "https://itsrealm12c.github.io/owalnew/lgc.png",
+      "action": "link:https://lgchp-app.megogo.net/#init"
+    }
+  ]
+}
