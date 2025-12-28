@@ -36,7 +36,7 @@
     {
       "titleFooter": "AV 1",
       "image": "https://itsrealm12c.github.io/owalnew/av.png",
-      "action": "link:placeholder"
+      "action": "info:coming soon"
     },
     {
       "titleFooter": "AV 2",
@@ -54,9 +54,9 @@
       "action": "info:coming soon"
     },
     {
-      "titleFooter": "RGB",
-      "image": "https://itsrealm12c.github.io/owalnew/rgb.png",
-      "action": "video:rtsp://192.168.0.18:554/h264/ch1/main/av_stream"
+      "titleFooter": "Debug Settings",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd4wVI15GeiitOictf02BZoa-HjZsh8-WYBCJtBUme1A&s=10g",
+      "action": "info:coming soon"
     },
     {
       "title": "",
