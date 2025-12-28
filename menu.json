@@ -4,21 +4,29 @@
   "style": "overlay",
     "background": "http://msx.benzac.de/media/wallpaper1.jpg",
   "menu": [
+  {  "type": "separator",
+            "label": "{col:#18aa9c}Online webOS App Launcher",
+            "lineColor": "#18aa9c" }, 
     {
       "icon": "store",
       "label": "LG Content Store Apps",
-      "data": "https://itsrealm12c.github.io/msx/lg.json"
+      "data": "https://itsrealm12c.github.io/msx/lg.json",
+      "extensionIcon": "keyboard-arrow-right"
     },
     {
       "icon": "gamepad",
       "label": "Homebrew Channel Apps",
-      "data": "https://itsrealm12c.github.io/msx/hc.json"
+      "data": "https://itsrealm12c.github.io/msx/hc.json",
+      "extensionIcon": "keyboard-arrow-right"
     },
-    
+ {   "type": "separator",
+            "label": "{col:#18aa9c}Other",
+            "lineColor": "#18aa9c" },
     {
       "icon": "build",
       "label": "Tools",
-      "data": "https://itsrealm12c.github.io/msx/tools.json"
+      "data": "https://itsrealm12c.github.io/msx/tools.json",
+      "extensionIcon": "keyboard-arrow-right"
     }
   ]
 }
