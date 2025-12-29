@@ -1,0 +1,72 @@
+{
+  "type": "pages",
+  "headline": "LG User Guide",
+  "template": {
+    "type": "default",
+    "layout": "0,0,2,2",
+    "color": "msx-glass",
+    "imageFiller": "cover"
+  },
+  "items": [
+    {
+      "titleFooter": "webOS 1",
+      "image": "https://itsrealm12c.github.io/owalnew/guide.png",
+      "action": "link:http://kr.eguide.lgappstv.com/manual/ss16/ss16_e_01/index_e_eng.html"
+    },
+    {
+      "titleFooter": "webOS 2",
+      "image": "https://itsrealm12c.github.io/owalnew/guide.png",
+      "action": "link:http://kr.eguide.lgappstv.com/manual/w15_mr/dvb/Apps/w15_mr_e05/e_eng/index.html"
+    },
+    {
+      "titleFooter": "webOS 3",
+      "image": "https://itsrealm12c.github.io/owalnew/guide.png",
+      "action": "link:http://kr.eguide.lgappstv.com/manual/w16/atsc/Apps/w3_u05/u_enga/index.html"
+    },
+    {
+      "titleFooter": "webOS 3.5",
+      "image": "https://itsrealm12c.github.io/owalnew/guide.png",
+      "action": "link:http://kr.eguide.lgappstv.com/manual/w17_mr/dvb/Apps/w3.5_mr_e05/e_hun/index.html"
+    },
+    {
+      "titleFooter": "webOS 4",
+      "image": "https://itsrealm12c.github.io/owalnew/guide.png",
+      "action": "link:http://kr.eguide.lgappstv.com/manual/w18/atsc/Apps/w4.0_u04/u_enga/index.html"
+    },
+    {
+      "titleFooter": "webOS 4.5",
+      "image": "https://itsrealm12c.github.io/owalnew/guide.png",
+      "action": "link:http://kr.eguide.lgappstv.com/manual/w19_mr/atsc/Apps/w4.5_mr_u06/u_enga/index.html"
+    },
+    {
+      "titleFooter": "webOS 5",
+      "image": "https://itsrealm12c.github.io/owalnew/guide.png",
+      "action": "link:http://kr.eguide.lgappstv.com/manual/w20/atsc/Apps/w5.0_u09/u_enga/index.html"
+    },
+    {
+      "titleFooter": "webOS 6",
+      "image": "https://itsrealm12c.github.io/owalnew/guide.png",
+      "action": "link:http://kr.eguide.lgappstv.com/manual/w21_mr10/global/Apps/w6.0_mr10_a04/a_eng/index.html"
+    },
+    {
+      "titleFooter": "webOS 7",
+      "image": "https://itsrealm12c.github.io/owalnew/guide.png",
+      "action": "link:http://kr.eguide.lgappstv.com/manual/w22_mr3/global/Apps/w22_mr3_e17/e_eng/index.html"
+    },
+    {
+      "titleFooter": "webOS 8",
+      "image": "https://itsrealm12c.github.io/owalnew/guide.png",
+      "action": "link:http://kr.eguide.lgappstv.com/manual/monitor/w23/global/Apps/w23_monitor_initial_us01/u_enga/index.html"
+    },
+    {
+      "titleFooter": "webOS 9",
+      "image": "https://itsrealm12c.github.io/owalnew/guide.png",
+      "action": "link:http://kr.eguide.lgappstv.com/manual/w24/global/Apps/w24_us03/u_enga/index.html"
+    },
+    {
+      "titleFooter": "webOS 10",
+      "image": "https://itsrealm12c.github.io/owalnew/guide.png",
+      "action": "info:coming soon"
+    }
+  ]
+}
