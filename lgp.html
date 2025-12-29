@@ -20,8 +20,8 @@
        var request = webOS.service.request("luna://com.webos.applicationManager", {
            method: "launch",
            parameters: { 
-			"id": "com.webos.app.googleassistant", 
-			params:{ "target": "file:///usr/palm/applications/com.webos.app.premium/index.html",}
+                        "id": "com.webos.app.googleassistant", 
+                        "params": { "target": "file:///usr/palm/applications/com.webos.app.premium/index.html",}
 			},
            onSuccess: function (inResponse) {
                console.log("The app is launched");
