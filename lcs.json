@@ -9,62 +9,62 @@
   },
   "items": [
     {
-      "titleFooter": "LG Store (webOS 1–2)",
-      "image": "https://itsrealm12c.github.io/owalnew/store.png",
+      "titleFooter": "Premium - LG Store (webOS 1–2)",
+      "image": "https://raw.githubusercontent.com/itsRealM12C/owalnew/refs/heads/main/webOS1.png",
       "action": "link:https://kr.lgrecommends.lgappstv.com/discovery-webapp/featured#/"
     },
     {
       "titleFooter": "LG Content Store (webOS 3)",
-      "image": "https://itsrealm12c.github.io/owalnew/store.png",
+      "image": "https://raw.githubusercontent.com/itsRealM12C/owalnew/refs/heads/main/webOS3.png",
       "action": "link:https://kr.lgrecommends.lgappstv.com/discovery_2016/discovery.html"
     },
     {
-      "titleFooter": "LG Content Store (webOS 4)",
-      "image": "https://itsrealm12c.github.io/owalnew/store.png",
+      "titleFooter": "LG Content Store (webOS 3.5)",
+      "image": "https://raw.githubusercontent.com/itsRealM12C/owalnew/refs/heads/main/webOS3.png",
       "action": "link:https://kr.lgrecommends.lgappstv.com/discovery_2017/discovery.html"
     },
     {
-      "titleFooter": "LG Content Store (webOS 4.5)",
-      "image": "https://itsrealm12c.github.io/owalnew/store.png",
+      "titleFooter": "LG Content Store (webOS 4)",
+      "image": "https://raw.githubusercontent.com/itsRealM12C/owalnew/refs/heads/main/webOS3.png",
       "action": "link:https://kr.lgrecommends.lgappstv.com/discovery_2018/discovery.html"
     },
     {
-      "titleFooter": "LG Content Store (webOS 5)",
-      "image": "https://itsrealm12c.github.io/owalnew/store.png",
+      "titleFooter": "LG Content Store (webOS 4.5)",
+      "image": "https://raw.githubusercontent.com/itsRealM12C/owalnew/refs/heads/main/webOS5.png",
       "action": "link:https://kr.lgrecommends.lgappstv.com/discovery_2019/discovery.html"
     },
     {
-      "titleFooter": "LG Content Store (webOS 6)",
-      "image": "https://itsrealm12c.github.io/owalnew/store.png",
+      "titleFooter": "LG Content Store (webOS 5)",
+      "image": "https://raw.githubusercontent.com/itsRealM12C/owalnew/refs/heads/main/webOS5.png",
       "action": "link:https://kr.lgrecommends.lgappstv.com/discovery_2020/discovery.html"
     },
     {
-      "titleFooter": "Apps (webOS 7)",
+      "titleFooter": "Apps (webOS 6)",
       "image": "https://itsrealm12c.github.io/owalnew/store.png",
       "action": "link:https://kr.lgrecommends.lgappstv.com/discovery_2021/discovery.html"
     },
     {
-      "titleFooter": "Apps (webOS 8)",
+      "titleFooter": "Apps (webOS 7)",
       "image": "https://itsrealm12c.github.io/owalnew/store.png",
       "action": "link:https://kr.app.lgwebostv.com/discovery_2022/discovery.html"
     },
     {
-      "titleFooter": "Apps (webOS 9)",
+      "titleFooter": "Apps (webOS 8)",
       "image": "https://itsrealm12c.github.io/owalnew/store.png",
       "action": "link:https://kr.app.lgwebostv.com/discovery_2023/discovery.html"
     },
     {
-      "titleFooter": "Apps (webOS 10)",
+      "titleFooter": "Apps (webOS 9)",
       "image": "https://itsrealm12c.github.io/owalnew/store.png",
       "action": "link:https://kr.app.lgwebostv.com/discovery_2024/discovery.html"
     },
     {
-      "titleFooter": "Apps (webOS 11)",
+      "titleFooter": "Apps (webOS 10)",
       "image": "https://itsrealm12c.github.io/owalnew/store.png",
       "action": "link:https://kr.app.lgwebostv.com/discovery_2025/discovery.html"
     },
     {
-      "titleFooter": "Apps (webOS 12)",
+      "titleFooter": "Apps (webOS 11)",
       "image": "https://itsrealm12c.github.io/owalnew/store.png",
       "action": "link:https://kr.app.lgwebostv.com/discovery_2026/discovery.html"
     }
