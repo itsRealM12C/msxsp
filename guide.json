@@ -1,0 +1,23 @@
+{
+  "type": "pages",
+  "headline": "LG guide",
+  "template": {
+    "type": "default",
+    "layout": "0,0,2,2",
+    "color": "msx-glass",
+    "imageFiller": "cover"
+  },
+  "items": [
+
+        {
+    "titleFooter": "webOS 1 (Local + Another Method)",
+      "image": "https://itsrealm12c.github.io/owalnew/guid3.png",
+      "action": "link:itsrealm12c.github.io/msx/oldtv.html"
+        },
+    {
+    "titleFooter": "webOS (Local + Another Method)",
+      "image": "https://itsrealm12c.github.io/owalnew/webOS5.png",
+      "action": "link:itsrealm12c.github.io/msx/no.html"
+    }
+  ]
+}
