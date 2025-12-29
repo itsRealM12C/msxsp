@@ -42,7 +42,7 @@
        "label": "User Guide",
        "data": "https://raw.githubusercontent.com/itsRealM12C/msx/refs/heads/main/ug.json",
        "extensionIcon": "keyboard-arrow-right"
-     {
        }
   ]
-}
+       }  
+
