@@ -42,6 +42,18 @@
        "label": "User Guide",
        "data": "https://raw.githubusercontent.com/itsRealM12C/msx/refs/heads/main/ug.json",
        "extensionIcon": "keyboard-arrow-right"
+       },
+       {
+       "icon": "tv",
+       "label": "TV Guide",
+       "data": "https://raw.githubusercontent.com/itsRealM12C/msx/refs/heads/main/guide.json",
+       "extensionIcon": "keyboard-arrow-right"
+       },
+       {
+       "icon": "apps",
+       "label": "Web Browser",
+       "data": "https://raw.githubusercontent.com/itsRealM12C/msx/refs/heads/main/idk.json",
+       "extensionIcon": "keyboard-arrow-right"
        }
   ]
        }  
