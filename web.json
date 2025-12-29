@@ -10,8 +10,8 @@
   "items": [
 
         {
-    "titleFooter": "webOS 3 (Local + Another Method)",
-      "image": "https://itsrealm12c.github.io/owalnew/icon.png",
+    "titleFooter": "webOS 4 (Local + Another Method)",
+      "image": "https://raw.githubusercontent.com/itsRealM12C/owalnew/refs/heads/main/webbrowser_icon.png",
       "action": "link:itsrealm12c.github.io/msx/oldb.html"
         },
     {
