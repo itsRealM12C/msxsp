@@ -27,6 +27,12 @@
       "label": "Tools",
       "data": "https://itsrealm12c.github.io/msx/tools.json",
       "extensionIcon": "keyboard-arrow-right"
+    },
+    {
+       "icon" "build",
+       "label": "App Store Versions",
+       "data": "https://raw.githubusercontent.com/itsRealM12C/msx/refs/heads/main/lcs.json",
+       "extensionIcon": "keyboard-arrow-right"
     }
   ]
 }
