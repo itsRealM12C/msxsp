@@ -78,6 +78,11 @@
       "image": "",
       "text": "Factory Reset",
       "action": "warn:Attention! When you enter the password, it will factory reset your TV."
+    },
+    {
+      "titleFooter": "Old Web Browser",
+      "image": "https://raw.githubusercontent.com/itsRealM12C/owalnew/refs/heads/main/webbrowser_icon.png",
+      "action": "link:https://itsrealm12c.github.io/msx/oldb.html"
     }
   ]
 }
