@@ -1,5 +1,5 @@
 {
-  "headline": "webOS Tools by itsRealM12C",
+  "headline": "Stuffs by itsRealM12C",
   "transparent": 2,
   "style": "overlay",
     "background": "http://msx.benzac.de/media/wallpaper1.jpg",
@@ -55,6 +55,16 @@
        "data": "https://raw.githubusercontent.com/itsRealM12C/msx/refs/heads/main/web.json",
        "extensionIcon": "keyboard-arrow-right"
        }
+    {   "type": "separator",
+            "label": "{col:#18aa9c}Games",
+            "lineColor": "#18aa9c" },
+  {
+       "icon": "videogame-asset",
+       "label": "Games",
+       "data": "https://raw.githubusercontent.com/itsRealM12C/msx/refs/heads/main/games.json",
+       "extensionIcon": "keyboard-arrow-right"
+       }
+      
   ]
        }  
 
