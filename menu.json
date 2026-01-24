@@ -61,7 +61,7 @@
   {
        "icon": "videogame-asset",
        "label": "Games",
-       "data": "https://raw.githubusercontent.com/itsRealM12C/msx/refs/heads/main/games.json",
+       "data": "https://raw.githubusercontent.com/itsRealM12C/msx/refs/heads/main/game.json",
        "extensionIcon": "keyboard-arrow-right"
        }
       
