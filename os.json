@@ -1,1 +1,22 @@
-
+{
+  "type": "pages",
+  "headline": "Operating Systems (compatible only on newer TV's, due to unstable on older TV's)",
+  "template": {
+    "type": "default",
+    "layout": "0,0,2,2",
+    "color": "msx-glass",
+    "imageFiller": "cover"
+  },
+  "items": [
+    {
+      "titleFooter": "Windows 95",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Windows_Logo_%281992-2001%29.svg/250px-Windows_Logo_%281992-2001%29.svg.png",
+      "action": "link:https://lrusso.github.io/Virtual95/Virtual95.htm"
+    },
+    {
+      "titleFooter": "Windows XP",
+      "image": "https://www.rw-designer.com/icon-image/18835-256x256x4.png",
+      "action": "link:https://lrusso.github.io/VirtualXP/VirtualXP.htm"
+    }
+  ]
+}
