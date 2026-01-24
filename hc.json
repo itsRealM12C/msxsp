@@ -23,8 +23,6 @@
       "image": "https://repo.webosbrew.org/apps/icons/org.chocolate-doom.demo.png",
       "action": "link:https://mattiasgustavsson.com/wasm/doom-crt/"
     },
-
-}
     {
       "titleFooter": "Lampa",
       "image": "https://itsrealm12c.github.io/owalnew/lampa.png",
