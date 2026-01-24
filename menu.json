@@ -39,6 +39,12 @@
       "extensionIcon": "keyboard-arrow-right"
     },
     {
+      "icon": "computer",
+      "label": "Operating Systems",
+      "data": "https://raw.githubusercontent.com/itsRealM12C/msx/refs/heads/main/os.json",
+      "extensionIcon": "keyboard-arrow-right"
+    },
+    {
       "type": "separator",
       "label": "{col:#18aa9c}System app versions",
       "lineColor": "#18aa9c"
