@@ -7,5 +7,6 @@ You can:
 
 * Try out apps from LG Content Store/Apps
 * Try out apps from Homebrew Channel
+* Try out the LG TV's older or newer system app versions
 * Bunch of tools including service menu
 * Games on Media Station X
