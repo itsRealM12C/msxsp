@@ -1,1 +1,27 @@
-
+{
+  "type": "pages",
+  "headline": "Games",
+  "template": {
+    "type": "default",
+    "layout": "0,0,2,2",
+    "color": "msx-glass",
+    "imageFiller": "cover"
+  },
+  "items": [
+    {
+      "titleFooter": "Quake 3 Arena",
+      "image": "https://files.softicons.com/download/game-icons/game-icons-by-th3-prophetman/png/256/Quake%20III%20Arena.png",
+      "action": "link:https://lrusso.github.io/Quake3/Quake3.htm?demo"
+    },
+    {
+      "titleFooter": "Quake 3 Arena (Multiplayer)",
+      "image": "https://repo.webosbrew.org/apps/icons/com.github.k4zmu2a.space-cadet-pinball.png",
+      "action": "link:https://thelongestyard.link/q3a-demo/?server=M13C"
+    },
+    {
+      "titleFooter": "Doom",
+      "image": "https://itsrealm12c.github.io/owalnew/lampa.png",
+      "action": "info:coming soon"
+    }  
+  ]
+}
