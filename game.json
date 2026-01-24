@@ -15,13 +15,13 @@
     },
     {
       "titleFooter": "Quake 3 Arena (Multiplayer)",
-      "image": "https://repo.webosbrew.org/apps/icons/com.github.k4zmu2a.space-cadet-pinball.png",
+      "image": "https://files.softicons.com/download/game-icons/game-icons-by-th3-prophetman/png/256/Quake%20III%20Arena.png",
       "action": "link:https://thelongestyard.link/q3a-demo/?server=M13C"
     },
     {
       "titleFooter": "Doom",
-      "image": "https://itsrealm12c.github.io/owalnew/lampa.png",
-      "action": "info:coming soon"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Doom_logo.png",
+      "action": "link:https://mattiasgustavsson.com/wasm/doom-crt/"
     }  
   ]
 }
