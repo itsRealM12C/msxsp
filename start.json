@@ -1,6 +1,6 @@
 {
     "name": "M12C Start Parameter",
     "version": "1.0.0",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Poecile-atricapilla-001.jpg",
+    "thumbnail": "https://github.com/itsRealM12C/msx/blob/main/km_20260129-3_480p_15f_20260129_231309.gif?raw=true",
     "parameter": "menu:https://itsrealm12c.github.io/msx/menu.json"
 }
